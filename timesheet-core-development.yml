@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: timesheet-core
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:admin1234@bfs2.7rms6.mongodb.net/BSF-2?retryWrites=true&w=majority
+
+server:
+  port: 0
+
