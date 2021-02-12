@@ -1,0 +1,10 @@
+  
+spring:
+  application:
+    name: time-sheet
+
+server:
+  port: 0
+
+user:
+  role: developer/time sheet
