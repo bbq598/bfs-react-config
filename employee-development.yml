@@ -1,0 +1,10 @@
+  
+spring:
+  application:
+    name: employee
+
+server:
+  port: 0
+
+user:
+  role: developer/employee
